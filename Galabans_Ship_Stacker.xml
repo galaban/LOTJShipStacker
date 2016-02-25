@@ -423,7 +423,6 @@ function grabShip(triggeredLine)
     local shipName = ""
     
     shipType, shipName = parseShip(0, triggeredLine)
-    Note("addship0: "..shipName)
     addShip(shipType, shipName)
 
 end
