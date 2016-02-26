@@ -14,3 +14,5 @@ Commands:
 https://raw.github.com/galaban/moons/master/Galabans_Ship_Stacker.xml
 2. Place the raw file into your "plugins" directory.  This is found in your Mushclient folder under /worlds/plugins.
 3. Install the plugain in MushClient.  From the "File" menu, choose "plugins", then "Add".  Select the file and choose "OK".
+
+Note: If you do not already have the lotj_colors.lua file in your plugins directory, you will need that too.
